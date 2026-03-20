@@ -1,6 +1,6 @@
 {
     "name": "smollancommerce/register",
-    "description": "Just to register hibrido namespace",
+    "description": "Just to register smollancommerce namespace",
     "type": "library",
     "license": "MIT",
     "require": {}
